@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-microsoft-mappoint-pointer-computer-icons-world-ma-location-logo-5ac7cba176dac3.8067821115230432334868.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-microsoft-mappoint-pointer-computer-icons-world-ma-location-logo-5ac7cba176dac3.8067821115230432334868-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-microsoft-mappoint-pointer-computer-icons-world-ma-location-logo-5ac7cba176dac3.8067821115230432334868-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
